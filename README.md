@@ -1,8 +1,6 @@
-leetcode
-==========
-
-## Update
-* Start implementing Java solution for now
+#Leetcode
+## leetcode solutions collections.
+---
 
 ## Questions
 | # | Title | Difficulty | Solutions |
